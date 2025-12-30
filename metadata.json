@@ -1,0 +1,7 @@
+{
+  "name": "WinterGuard AI",
+  "description": "A smart winter safety and preparedness platform providing real-time AI-driven alerts, action-based survival guidance, and emergency preparedness tools for extreme cold regions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
